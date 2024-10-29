@@ -10,7 +10,7 @@
 - [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal) (xfce terminal emulator)
 - [neofetch](https://github.com/dylanaraps/neofetch) (system info fetching tool)
 - [cava](https://github.com/karlstav/cava) (audio visualizer)
-- [pulseaudio](https://github.com/pulseaudio/pulseaudio) (audio server)
+- [pulseaudio](https://github.com/pulseaudio/pulseaudio) (pipewire-pulse also works)
 - [feh](https://github.com/derf/feh) (wallpaper setter + image viewer)
 - [dunst](https://github.com/dunst-project/dunst) (notification daemon)
 - [scrot](https://github.com/resurrecting-open-source-projects/scrot) (screenshot tool)
