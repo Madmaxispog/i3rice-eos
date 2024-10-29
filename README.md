@@ -1,6 +1,8 @@
 # A simple setup for i3wm and some tools based on [stock EndeavourOS config for i3](https://github.com/endeavouros-team/endeavouros-i3wm-setup).
 
 ![screenshot1](assets/screenshot1.png)
+![screenshot2](assets/screenshot2.png)
+![screenshot3](assets/screenshot3.png)
 
 # **Dependencies**:
 - [i3wm](https://github.com/i3/i3) (X11 tiling window manager)
